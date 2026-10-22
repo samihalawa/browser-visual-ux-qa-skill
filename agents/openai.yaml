@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Visual UX/UI QA"
+  short_description: "Simulate the user in a browser, screenshot every step, audit visually and in code, fix and re-verify."
+  default_prompt: "Use $browser-visual-ux-qa on this app: simulate every main user workflow in the browser at mobile/tablet/desktop in light and dark, review every screenshot, fix the root causes, redeploy and prove it with before/after screenshots."
